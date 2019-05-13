@@ -1,0 +1,17 @@
+nr_pers:(nr natural)
+pers:Ana,Andrei,Viorel
+nr_rest:(nr natural)
+nr_zile:(nr natural)
+cnp_sef:(nr natural)
+confpro:da(1)/nu(0)
+confmese:da(1)/nu(0)
+
+
+mod date intr rest:
+nr_c2:
+nr_c4:
+nr_confpro
+nr_confmes
+cap_rest:
+cap_confpro:
+cap_confmes:
